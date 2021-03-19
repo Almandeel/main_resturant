@@ -1,0 +1,7 @@
+{
+    "Subscription": true,
+    "Restaurant": true,
+    "Cashier": true,
+    "Pos": true,
+    "Market": true
+}
